@@ -1,0 +1,73 @@
+  
+  .hy-table-07{
+    display: table;
+    width: 100%;
+    height: auto;
+    vertical-align: center;
+    letter-spacing: 1px;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+.hy-table-07 thead tr{
+    width: 100%;
+}
+
+.hy-table-07 thead tr td{
+    height: 40px;
+    word-wrap: break-word;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 10px;
+}
+
+.hy-table-07 tbody tr td{
+    height: auto;
+    font-size: 14px;
+    font-weight: 400;
+    word-break: break-all;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.hy-table-07 thead tr td.left{
+    text-align: left;
+}
+
+.hy-table-07 thead tr td.center{
+    text-align: center;
+}
+
+.hy-table-07 tbody tr td.left{
+    text-align: left;
+}
+
+.hy-table-07 tbody tr td.center{
+    text-align: center;
+}
+
+.hy-table-07 thead tr td.blue{
+    background-color:#e6edf5;
+    border: 1px solid #e6e6e6;
+}
+
+.hy-table-07 tbody tr td.blue{
+    border: 1px solid #e6e6e6;
+}
+
+.hy-table-07 thead tr td.orange{
+    background-color: #fff8ec;
+    border: 1px solid #e6e6e6;
+}
+
+.hy-table-07 tbody tr td.orange{
+    border: 1px solid #e6e6e6;
+}
+
+.hy-table-07 thead tr td.grey{
+    background-color: #f1f1f1;
+    border: 1px solid #e6e6e6;
+}
+
+.hy-table-07 tbody tr td.grey{
+    border: 1px solid #e6e6e6;
+}
